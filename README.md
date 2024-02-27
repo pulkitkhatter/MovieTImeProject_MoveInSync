@@ -3,7 +3,7 @@
 ### Prototype Video Link
 [Yotube Demonstration of Project](https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD)
 ### API Mocky Link
-[Yotube Demonstration of Project](https://run.mocky.io/v3/9ba4ce56-e933-4e43-97ae-a3caa234d80c)
+[Mocky Link of Project](https://run.mocky.io/v3/9ba4ce56-e933-4e43-97ae-a3caa234d80c)
 
 ## Project Description
 MovieTime is a movie recommendation and browsing application that allows users to explore a wide range of movies across various genres. With MovieTime, users can discover trending movies, explore different categories, and find detailed information about their favorite films. The application provides an intuitive interface and seamless navigation, ensuring an enjoyable experience for movie enthusiasts.
