@@ -1,14 +1,17 @@
-# Movie Time Project - MoveInSync
+# MovieTime Project - MoveInSync
 
 ## Project Description
-MoveInSync is a movie recommendation and browsing application that allows users to explore a wide range of movies across various genres. Users can discover trending movies, explore different categories, and find detailed information about their favorite films. With an intuitive interface and seamless navigation, MoveInSync provides an enjoyable experience for movie enthusiasts.
+MovieTime is a movie recommendation and browsing application that allows users to explore a wide range of movies across various genres. With MovieTime, users can discover trending movies, explore different categories, and find detailed information about their favorite films. The application provides an intuitive interface and seamless navigation, ensuring an enjoyable experience for movie enthusiasts.
+
+MovieTime makes use of the Retrofit library to fetch movie data from a remote API, allowing users to access the latest information about movies. The application integrates various features such as browsing trending movies, exploring movies by categories, viewing detailed information about each movie, saving favorite movies to a watchlist, and searching for specific movies using keywords. By leveraging Retrofit, MoveInSync efficiently handles network requests and retrieves movie data in a fast and reliable manner.
 
 ## Tech Stacks Included
-MoveInSync is built using the following technologies:
+MovieTime is built using the following technologies:
 - **Android**: The application is developed for the Android platform, making use of Android Studio for development.
 - **Kotlin**: The primary programming language used for building the app, providing modern features and improved code readability.
 - **XML**: Used for designing the user interface layout of the application screens.
-- **RecyclerView**: Employed to display lists of movies and categories in a scrollable manner.
+- **Retrofit**: Utilized to handle network requests and fetch movie data from a remote API.
+- **Glide**: Employed for efficient loading and displaying of movie images within the application.
 
 ## Images and Prototypes
 Below are some images and GIFs showcasing the prototype project:
@@ -28,8 +31,8 @@ Below are some images and GIFs showcasing the prototype project:
 - Search for specific movies using keywords.
 
 ## Major Components
-- **Fragment 1 (BlankFragment1)**: Displays a horizontal scrollable list of movies under different categories like "Hot Right Now," "Action & Adventure," "Mythology & Legends," etc.
-- **Fragment 2 (BlankFragment2)**: Displays a list of all movies, three movies per row, categorized under different genres.
-- **Fragment 3 (BlankFragment3)**: Displays a list of categories of different genres of movies, allowing users to explore movies by category.
-- **Movie Adapter**: Handles the binding of movie data to RecyclerViews.
-- **Movie Category Adapter**: Handles the binding of movie categories and movies to RecyclerViews.
+- **Retrofit Service**: Defines API endpoints and methods for fetching movie data from the remote server.
+- **Movie Service Interface**: Specifies the Retrofit service interface with methods for fetching movie data.
+- **Movie Repository**: Manages data retrieval and provides access to movie-related information throughout the application.
+- **Movie Model**: Represents the structure of movie data obtained from the API, including attributes such as title, overview, release date, etc.
+- **Movie Adapter**: Handles the binding of movie data to UI components for display.
