@@ -1,12 +1,14 @@
 # MovieTime Project - MoveInSync
 
+### Prototype Video Link
+[Yotube Demonstration of Project](https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD)
+### API Mocky Link
+[Yotube Demonstration of Project](https://run.mocky.io/v3/9ba4ce56-e933-4e43-97ae-a3caa234d80c)
+
 ## Project Description
 MovieTime is a movie recommendation and browsing application that allows users to explore a wide range of movies across various genres. With MovieTime, users can discover trending movies, explore different categories, and find detailed information about their favorite films. The application provides an intuitive interface and seamless navigation, ensuring an enjoyable experience for movie enthusiasts.
 
 MovieTime makes use of the Retrofit library to fetch movie data from a remote API, allowing users to access the latest information about movies. The application integrates various features such as browsing trending movies, exploring movies by categories, viewing detailed information about each movie, saving favorite movies to a watchlist, and searching for specific movies using keywords. By leveraging Retrofit, MoveInSync efficiently handles network requests and retrieves movie data in a fast and reliable manner.
-
-### Prototype Video Link
-[Yotube Demonstration of Project](https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD)
 
 ## Tech Stacks Included
 MovieTime is built using the following technologies:
