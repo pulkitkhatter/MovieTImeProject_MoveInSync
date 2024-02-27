@@ -25,7 +25,7 @@ Below are some images and GIFs showcasing the prototype project:
 ![Image 2](Assets/b.jpg)
 
 ### Prototype GIF
-[Video](https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD)
+<iframe width="560" height="315" src="https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD" frameborder="0" allowfullscreen></iframe>
 
 ## Features
 - Browse trending movies.
