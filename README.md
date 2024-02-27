@@ -5,6 +5,9 @@ MovieTime is a movie recommendation and browsing application that allows users t
 
 MovieTime makes use of the Retrofit library to fetch movie data from a remote API, allowing users to access the latest information about movies. The application integrates various features such as browsing trending movies, exploring movies by categories, viewing detailed information about each movie, saving favorite movies to a watchlist, and searching for specific movies using keywords. By leveraging Retrofit, MoveInSync efficiently handles network requests and retrieves movie data in a fast and reliable manner.
 
+### Prototype Video Link
+[Yotube Demonstration of Project](https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD)
+
 ## Tech Stacks Included
 MovieTime is built using the following technologies:
 - **Android**: The application is developed for the Android platform, making use of Android Studio for development.
@@ -24,8 +27,6 @@ Below are some images and GIFs showcasing the prototype project:
 ![Image 3](Assets/c.jpg)
 ![Image 2](Assets/b.jpg)
 
-### Prototype GIF
-<iframe width="560" height="315" src="https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD" frameborder="0" allowfullscreen></iframe>
 
 ## Features
 - Browse trending movies.
