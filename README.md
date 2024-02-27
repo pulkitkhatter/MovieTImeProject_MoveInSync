@@ -17,15 +17,15 @@ MovieTime is built using the following technologies:
 Below are some images and GIFs showcasing the prototype project:
 
 ### Prototype Images
+![Image 6](Assets/f.jpg)
 ![Image 1](Assets/a.jpg)
-![Image 2](Assets/b.jpg)
-![Image 3](Assets/c.jpg)
 ![Image 4](Assets/d.jpg)
 ![Image 5](Assets/e.jpg)
-![Image 6](Assets/f.jpg)
+![Image 3](Assets/c.jpg)
+![Image 2](Assets/b.jpg)
 
 ### Prototype GIF
-![GIF](https://example.com/prototype.gif)
+[Video](https://youtu.be/5nqKhz1FE6A?si=7WBatHQc0PCuw8RD)
 
 ## Features
 - Browse trending movies.
